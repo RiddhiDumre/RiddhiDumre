@@ -1,10 +1,11 @@
 
-
 <h1 align="center">Hi 👋, I'm Riddhi</h1>
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71A86&size=23&center=true&vCenter=true&lines=Hello%2C+there+stranger!!)](https://git.io/typing-svg)
 
+</div>
 
 
 <h3 align="center">A passionate student from India, ready to learn anything and everything</h3>
