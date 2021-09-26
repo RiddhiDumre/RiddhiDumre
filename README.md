@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **riddhidumre@gmial.com**
+- 📫 How to reach me **riddhidumre@gmail.com**
 
 - ⚡ Fun fact **I like drawing...stuff**
 
